@@ -1,0 +1,134 @@
+{
+    "ELEMENT_DATA_BIG": [
+        {
+            "id": 1,
+            "name": "Артём",
+            "age": 25,
+            "nickname": "Www"
+        },
+        {
+            "id": 2,
+            "name": "Богдан",
+            "age": 30,
+            "nickname": "Nnn"
+        },
+        {
+            "id": 3,
+            "name": "Виталий",
+            "age": 15,
+            "nickname": "Rrr"
+        },
+        {
+            "id": 4,
+            "name": "Глеб",
+            "age": 26,
+            "nickname": "Ddd"
+        },
+        {
+            "id": 5,
+            "name": "Дамир",
+            "age": 33,
+            "nickname": "Ttt"
+        },
+        {
+            "id": 6,
+            "name": "Зигмунд",
+            "age": 22,
+            "nickname": "Ggg"
+        },
+        {
+            "id": 7,
+            "name": "Илья",
+            "age": 18,
+            "nickname": "Hhh"
+        },
+        {
+            "id": 8,
+            "name": "Клим",
+            "age": 28,
+            "nickname": "Jjj"
+        },
+        {
+            "id": 9,
+            "name": "Николай",
+            "age": 36,
+            "nickname": "Ooo"
+        },
+        {
+            "id": 10,
+            "name": "Павел",
+            "age": 44,
+            "nickname": "Ppp"
+        }
+    ],
+    "ELEMENT_DATA_SMALL": [
+        {
+            "id": 1,
+            "name": "Петр",
+            "age": 25,
+            "nickname": "Www"
+        },
+        {
+            "id": 2,
+            "name": "Василий",
+            "age": 30,
+            "nickname": "Nnn"
+        },
+        {
+            "id": 3,
+            "name": "Александр",
+            "age": 15,
+            "nickname": "Rrr"
+        },
+        {
+            "id": 4,
+            "name": "Дмитрий",
+            "age": 26,
+            "nickname": "Ddd"
+        },
+        {
+            "id": 5,
+            "name": "Дамир",
+            "age": 33,
+            "nickname": "Ttt"
+        }
+    ],
+    "ELEMENT_DATA_OWN": [
+        {
+            "id": 1,
+            "name": "Алёна",
+            "age": 25,
+            "nickname": "Www"
+        },
+        {
+            "id": 2,
+            "name": "Жанна",
+            "age": 30,
+            "nickname": "Nnn"
+        },
+        {
+            "id": 3,
+            "name": "Зоя",
+            "age": 15,
+            "nickname": "Rrr"
+        },
+        {
+            "id": 4,
+            "name": "Камилла",
+            "age": 26,
+            "nickname": "Ddd"
+        },
+        {
+            "id": 5,
+            "name": "Марина",
+            "age": 33,
+            "nickname": "Ttt"
+        },
+        {
+            "id": 6,
+            "name": "Наталья",
+            "age": 22,
+            "nickname": "Ggg"
+        }
+    ]
+}
